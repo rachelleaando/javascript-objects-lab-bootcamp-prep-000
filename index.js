@@ -1,1 +1,2 @@
-var recipe = newObj
+var recipe = newObj();
+
